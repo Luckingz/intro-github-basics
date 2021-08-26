@@ -1,15 +1,15 @@
-##Version Control:
+## Version Control:
 
 Are applications or platforms that allows a programmer(s) save peices of codes at intervals and stages and are able to retrieve each stage or interval whenever they desire.
 
 The programmer may require to edit or improve a particular interval due to encountering a bug.
 
 
-##Git:
+## Git:
 Git is a type of version control systems that is used for tracking changes in any ste of files. It is usually used for coodinating work amongst programmers at various intervals.
 
 
-##How to Commit a Project to Github:
+## How to Commit a Project to Github:
 
 1. Visit github.com
 2. Login or create an account.
